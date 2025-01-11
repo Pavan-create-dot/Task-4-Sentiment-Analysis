@@ -103,5 +103,3 @@ Welcome to the world of sentiment analysis and prediction! This repository is pa
 Clone this repository and explore the mystery behind sentiment analysis. 🕵️‍♂️ Who knows what you’ll uncover? 🌟
 
 ---
-
-Replace `yourusername` and `your email address` with your actual GitHub username and email address.
