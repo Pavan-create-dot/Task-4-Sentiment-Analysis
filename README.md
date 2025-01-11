@@ -74,27 +74,30 @@ Welcome to the world of sentiment analysis and prediction! This repository is pa
 
 ### 📊 Sample Visualizations on Twitter Training Dataset (`twitter_training.csv`)
 #### Sentiment Distribution
-![Output_DS_04](Output_DS_04.png)
-![Output2_DS_04](Output2_DS_04.png)
+![image](https://github.com/user-attachments/assets/305e8bf4-7ca0-4fcf-b854-86a14de7200a)
+![image](https://github.com/user-attachments/assets/bf8e7d88-05ca-44ca-bf36-9a634d049aef)
 
 #### Company-Wise Sentiment Trends
-![Output1_DS_04](Output1_DS_04.png)
+
+![image](https://github.com/user-attachments/assets/236c547e-06ff-4395-bb5e-a1a3d3d4475d)
+
 
 ### Interactive Interface for Predictions
-![Output1](Output1.png)
+![image](https://github.com/user-attachments/assets/99111626-3b64-431f-babe-bf604fa5ba2b)
+
 
 ### Sample Visualizations on Twitter Validation Dataset (`twitter_validation.csv`)
 #### Confusion Matrix: Actual vs Predicted
-![Output3_DS_04](Output3_DS_04.png)
+![image](https://github.com/user-attachments/assets/1dae7982-52d5-4f07-b54f-21381743e280)
 
-#### Sentiment Distribution (Actual)
-![Output4_DS_04](Output4_DS_04.png)
 
-#### Sentiment Distribution (Predicted)
-![Output5_DS_04](Output5_DS_04.png)
+#### Sentiment Distribution (Actual) vs  Sentiment Distribution (Predicted)
+![image](https://github.com/user-attachments/assets/1e1e84b4-5de1-42a1-ad43-1772c9bf66ab)
+
 
 #### Company Wise Sentiment Distribution
-![output6](output6.png)
+![image](https://github.com/user-attachments/assets/0ed735a8-c31a-4e42-8131-5eaa5a475d43)
+
 
 ## 🌐 Explore It Yourself
 Clone this repository and explore the mystery behind sentiment analysis. 🕵️‍♂️ Who knows what you’ll uncover? 🌟
